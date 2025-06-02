@@ -84,3 +84,5 @@ void ServoGoTo(unsigned int uiPosition){
 		{
 		}
 }
+
+//zmiana na zaliczenie gita
